@@ -1,0 +1,144 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "",
+    "version" : "1.0.0",
+    "title" : "Notes API"
+  },
+  "host" : "virtserver.swaggerhub.com",
+  "basePath" : "/remopeduzzimas/notes/1.0.0",
+  "schemes" : [ "https" ],
+  "paths" : {
+    "/notes" : {
+      "get" : {
+        "tags" : [ "notes" ],
+        "summary" : "Gets all notes",
+        "description" : "Gets all notes",
+        "operationId" : "getAllNotes",
+        "produces" : [ "application/json" ],
+        "parameters" : [ ],
+        "responses" : {
+          "200" : {
+            "description" : "successful operation",
+            "schema" : {
+              "type" : "array",
+              "items" : {
+                "$ref" : "#/definitions/Note"
+              }
+            }
+          },
+          "400" : {
+            "description" : "Invalid tag value"
+          }
+        }
+      },
+      "post" : {
+        "tags" : [ "notes" ],
+        "summary" : "Add a new note",
+        "operationId" : "addNote",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "in" : "body",
+          "name" : "body",
+          "description" : "Note object that needs to be added to the store",
+          "required" : true,
+          "schema" : {
+            "$ref" : "#/definitions/Note"
+          }
+        } ],
+        "responses" : {
+          "405" : {
+            "description" : "Invalid input"
+          }
+        }
+      },
+      "put" : {
+        "tags" : [ "notes" ],
+        "summary" : "Update an exiting note",
+        "operationId" : "updateNote",
+        "consumes" : [ "application/json" ],
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "in" : "body",
+          "name" : "body",
+          "description" : "Pet object that needs to be added to the store",
+          "required" : true,
+          "schema" : {
+            "$ref" : "#/definitions/Note"
+          }
+        } ],
+        "responses" : {
+          "400" : {
+            "description" : "Invalid ID supplied"
+          },
+          "404" : {
+            "description" : "Pet not found"
+          },
+          "405" : {
+            "description" : "Validation exception"
+          }
+        }
+      }
+    },
+    "/notes/{noteId}" : {
+      "delete" : {
+        "tags" : [ "notes" ],
+        "summary" : "Deletes a note",
+        "operationId" : "deleteNote",
+        "produces" : [ "application/json" ],
+        "parameters" : [ {
+          "name" : "noteId",
+          "in" : "path",
+          "description" : "Note id to delete",
+          "required" : true,
+          "type" : "string",
+          "format" : "Guid"
+        } ],
+        "responses" : {
+          "400" : {
+            "description" : "Invalid ID supplied"
+          },
+          "404" : {
+            "description" : "Note not found"
+          }
+        }
+      }
+    }
+  },
+  "definitions" : {
+    "Note" : {
+      "type" : "object",
+      "required" : [ "id", "title" ],
+      "properties" : {
+        "id" : {
+          "type" : "string",
+          "format" : "Guid"
+        },
+        "title" : {
+          "type" : "string",
+          "example" : "Some note tile"
+        },
+        "description" : {
+          "type" : "string",
+          "example" : "This is a short descruption of a note."
+        },
+        "importance" : {
+          "type" : "integer",
+          "format" : "int64",
+          "example" : "1,2,3,4"
+        },
+        "finished" : {
+          "type" : "boolean"
+        }
+      },
+      "example" : {
+        "importance" : "1,2,3,4",
+        "description" : "This is a short descruption of a note.",
+        "finished" : true,
+        "id" : "id",
+        "title" : "Some note tile"
+      }
+    }
+  }
+}

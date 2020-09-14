@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce9bc696-15dc-4f4b-b12b-b5a84ae26cfd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/IO.Swagger/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IO.Swagger/Controllers/NotesApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/IO.Swagger/web.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/IO.Swagger/Controllers/NotesApi.cs" />
+        <option value="$PROJECT_DIR$/src/IO.Swagger/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h0uJ4mX7HBP9mejuA1UhmpVDYP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.IO.Swagger: web">
+    <configuration name="IO.Swagger: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/IO.Swagger/IO.Swagger.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="web" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO.Swagger: web" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/src/IO.Swagger/IO.Swagger.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="web" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce9bc696-15dc-4f4b-b12b-b5a84ae26cfd" name="Default Changelist" comment="" />
+      <created>1599160256562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599160256562</updated>
+      <workItem from="1599160261278" duration="1258000" />
+      <workItem from="1600017007340" duration="423000" />
+      <workItem from="1600019870582" duration="1368000" />
+      <workItem from="1600023657810" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="576" y="140" width="827" height="833" key="#IO.Swagger:_IIS_Express" timestamp="1599160317375">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="576" y="140" width="827" height="833" key="#IO.Swagger:_IIS_Express/72.27.1848.1053@72.27.1848.1053" timestamp="1599160317375" />
+    <state width="1802" height="258" key="GridCell.Tab.0.bottom" timestamp="1600023276004">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1600023276004" />
+    <state width="1802" height="258" key="GridCell.Tab.0.center" timestamp="1600023276003">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1600023276003" />
+    <state width="1802" height="258" key="GridCell.Tab.0.left" timestamp="1600023276003">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1600023276003" />
+    <state width="1802" height="258" key="GridCell.Tab.0.right" timestamp="1600023276004">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1600023276004" />
+    <state width="1354" height="319" key="GridCell.Tab.1.bottom" timestamp="1599320903590">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903590" />
+    <state width="1354" height="319" key="GridCell.Tab.1.center" timestamp="1599320903589">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903589" />
+    <state width="1354" height="319" key="GridCell.Tab.1.left" timestamp="1599320903589">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903589" />
+    <state width="1354" height="319" key="GridCell.Tab.1.right" timestamp="1599320903589">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903589" />
+    <state width="1354" height="319" key="GridCell.Tab.2.bottom" timestamp="1599320903591">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.2.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903591" />
+    <state width="1354" height="319" key="GridCell.Tab.2.center" timestamp="1599320903590">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.2.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903590" />
+    <state width="1354" height="319" key="GridCell.Tab.2.left" timestamp="1599320903590">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.2.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903590" />
+    <state width="1354" height="319" key="GridCell.Tab.2.right" timestamp="1599320903591">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.2.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903591" />
+    <state width="1354" height="319" key="GridCell.Tab.3.bottom" timestamp="1599320903592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.3.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903592" />
+    <state width="1354" height="319" key="GridCell.Tab.3.center" timestamp="1599320903592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.3.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903592" />
+    <state width="1354" height="319" key="GridCell.Tab.3.left" timestamp="1599320903591">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.3.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903591" />
+    <state width="1354" height="319" key="GridCell.Tab.3.right" timestamp="1599320903592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.3.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903592" />
+    <state width="1354" height="319" key="GridCell.Tab.4.bottom" timestamp="1599320903593">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.4.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903593" />
+    <state width="1354" height="319" key="GridCell.Tab.4.center" timestamp="1599320903592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.4.center/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903592" />
+    <state width="1354" height="319" key="GridCell.Tab.4.left" timestamp="1599320903592">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.4.left/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903592" />
+    <state width="1354" height="319" key="GridCell.Tab.4.right" timestamp="1599320903593">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.4.right/72.27.1848.1053@72.27.1848.1053" timestamp="1599320903593" />
+  </component>
+</project>
