@@ -1,0 +1,54 @@
+
+
+
+.gg-bolt {
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    transform: scale(var(--ggs,1));
+    width: 12px;
+    height: 42px;
+
+
+
+
+    color: #2b8718;
+}
+.gg-bolt--grey{
+
+
+
+
+    color: #cccccc;
+}
+.gg-bolt::after,
+.gg-bolt::before {
+    content: "";
+    display: block;
+    box-sizing: border-box;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    transform: rotate(30deg);
+
+
+}
+.gg-bolt::before {
+    border-bottom: 24px solid;
+    left: 0;
+    top: 0
+}
+.gg-bolt::after {
+    border-top: 24px solid;
+    right: 0;
+    bottom: 0
+}
+
+.bolt-container
+{
+    width: 20%;
+    box-sizing: border-box;
+    text-align: justify-all;
+}
